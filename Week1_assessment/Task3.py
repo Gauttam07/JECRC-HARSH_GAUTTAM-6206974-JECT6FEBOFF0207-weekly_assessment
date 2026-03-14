@@ -11,7 +11,7 @@ print("Browser started")
 sites = [
     "https://www.capgemini.com/",
     "https://www.thesouledstore.com",
-    "https://www.youtube.com/",
+    "https://www.thehindu.com/",
     "https://www.python.org"
 ]
 
